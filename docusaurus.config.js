@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-site.com', // TODO: Update this to your site's URL
+  url: 'https://vercel.com/hinawaheed1s-projects', // TODO: Update this to your site's URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
